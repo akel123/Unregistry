@@ -4,3 +4,4 @@ repo = "https://github.com/akel123/Registry.git"
 description = "private registry for unregistered packages"
 
 [packages]
+3ae50052-ad19-4e6d-841d-b95da8f55ab6 = { name = "CoexistenceHoles", path = "C/CoexistenceHoles" }
