@@ -1,0 +1,6 @@
+name = "Unregistry"
+uuid = "030cc32f-7cb4-4642-b348-7e786af6b19f"
+repo = "https://github.com/akel123/Registry.git"
+description = "private registry for unregistered packages"
+
+[packages]
